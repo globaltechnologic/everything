@@ -1,0 +1,2 @@
+# everything
+everything nopCommerce Theme
